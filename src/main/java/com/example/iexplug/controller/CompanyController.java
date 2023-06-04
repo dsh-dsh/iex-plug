@@ -22,6 +22,4 @@ public class CompanyController {
         return companyService.getAllCompanies(token);
     }
 
-    // curl http://localhost:8090/stable/ref-data/symbols?token=some_token
-
 }
